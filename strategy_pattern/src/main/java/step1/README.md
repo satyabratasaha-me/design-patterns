@@ -9,4 +9,6 @@ Great!!  I am able to now use the fly method from Duck class by inheriting it to
 
 But wait a minute!! Did you see that the MallardDuck and the RedHeadDuck was also provided with the capability to fly due to a change in the Duck class which is not as per the design.
 
-So a localized change in one class has caused a non- localized side effect. Hence we should change the design
+So a localized change in one class has caused a non- localized side effect. Hence we should change the design of the application
+
+A new beginner way !! - To be contd. look at step 2.
